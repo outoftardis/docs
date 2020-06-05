@@ -44,6 +44,6 @@ Examples of topics in existing APIs that could be documented using these templat
 To create a glossary of terms used across your API documentation, choose one of the following templates:
 
 - [a simple glossary](terminology.tmpl) in which all terms are sorted alphabetically within a single list
-- [a glossary with multiple sections](teminology_with_sections.tmpl) in which terms are split into thematic groups and sorted alphabetically within each one
+- [a glossary with multiple sections](terminology_with_sections.tmpl) in which terms are split into thematic groups and sorted alphabetically within each one
 
 These terms could be referenced from other topics in your API documentation using `:term:` directive.
