@@ -10,11 +10,22 @@ Use the following templates to describe a particular function, class, or a group
 
 ### Function description
 
-For projects without Doxygen, you might want to use [the template for a function description](function_description_no_doxygen.tmpl) combined with [the template for input and output parameters](description_parameters.tmpl)
+For projects without Doxygen, you might want to use a combinated of these:
+
+- [the template for a function description](function_description_no_doxygen.tmpl)
+- [the template for input and output parameters](description_parameters.tmpl)
+
+---
+
+An example of topic in the existing API Reference that could be documented using these templates: 
+
+- [`add` function in oneMKL](https://software.intel.com/content/www/us/en/develop/documentation/oneapi-mkl-dpcpp-developer-reference/top/vector-mathematical-functions/vm-mathematical-functions/arithmetic-functions/add.html)
+
+---
 
 ## Chapters
 
-These templates are used to create a chapter of your API documentation. For each template there is an underlying assumption that you already have a folder with RST files that you want to place within the same chapter.
+These templates are used to create a chapter of your API Reference documentation. For each template there is an underlying assumption that you already have a folder with RST files that you want to place within the same chapter.
 
 If you want to have a chapter for examples, namespaces, classes, or doxygen groups, refer to the following templates: 
 
@@ -36,7 +47,7 @@ For API chapters that combine topics related to a particlar entity a type of obj
 
 ---
 
-Examples of topics in existing APIs that could be documented using these templates:
+Examples of topics in existing API References that could be documented using these templates:
 
 - [Iterators in oneTBB Developer Reference](https://www.intel.com/content/www/us/en/develop/documentation/onetbb-documentation/top/intel-174-oneapi-threading-building-blocks-onetbb-developer-reference/iterators.html)
 - [VM Mathematical Functions in oneMKL Developer Reference](https://software.intel.com/content/www/us/en/develop/documentation/oneapi-mkl-dpcpp-developer-reference/top/vector-mathematical-functions/vm-mathematical-functions.html)
@@ -45,7 +56,7 @@ Examples of topics in existing APIs that could be documented using these templat
 
 ## Terminology
 
-To create a glossary of terms used across your API documentation, choose one of the following templates:
+To create a glossary of terms used across your API Reference documentation, choose one of the following templates:
 
 - [a simple glossary](terminology.tmpl) in which all terms are sorted alphabetically within a single list
 - [a glossary with multiple sections](terminology_with_sections.tmpl) in which terms are split into thematic groups and sorted alphabetically within each one
