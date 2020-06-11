@@ -1,4 +1,10 @@
-# Guidelines
+# Guidelines <!-- omit in toc --> 
+
+- [Function, class, and group description](#function-class-and-group-description)
+  - [Function description without Doxygen](#function-description-without-doxygen)
+- [Chapters](#chapters)
+- [Glossary](#glossary)
+
 
 ## Function, class, and group description
 
@@ -8,12 +14,13 @@ Use the following templates to describe a particular function, class, or a group
 - `Class Template` for projects [with Doxygen](class_description_doxygen.tmpl) and [without Doxygen](class_description_no_doxygen.tmpl)
 - `Group Template` for projects [with Doxygen](group_description_doxygen.tmpl) and [without Doxygen](group_description_no_doxygen.tmpl)
 
-### Function description
+### Function description without Doxygen
 
 For projects without Doxygen, you might want to use a combination of these:
 
 - [the template for a function description](function_description_no_doxygen.tmpl)
 - [the template for input and output parameters](description_parameters.tmpl)
+- [the template foe computation modes](description_computation_modes.tmpl)
 
 ---
 

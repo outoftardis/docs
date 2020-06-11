@@ -15,3 +15,4 @@ Our goal is to create a similar look-and-feal across API documentation for diffe
 - [Quick start with Sphinx](https://www.sphinx-doc.org/en/master/usage/quickstart.html)
 - [RST Cheatsheet](https://github.com/ralsina/rst-cheatsheet/blob/master/rst-cheatsheet.rst)
 - [Style Guide for Sphinx-based documentation](https://documentation-style-guide-sphinx.readthedocs.io/en/latest/style-guide.html)
+- [Breathe extension for Doxygen](https://breathe.readthedocs.io/en/latest/index.html)
