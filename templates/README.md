@@ -10,7 +10,7 @@ Use the following templates to describe a particular function, class, or a group
 
 ### Function description
 
-For projects without Doxygen, you might want to use a combinated of these:
+For projects without Doxygen, you might want to use a combination of these:
 
 - [the template for a function description](function_description_no_doxygen.tmpl)
 - [the template for input and output parameters](description_parameters.tmpl)
@@ -54,11 +54,11 @@ Examples of topics in existing API References that could be documented using the
 
 ---
 
-## Terminology
+## Glossary
 
 To create a glossary of terms used across your API Reference documentation, choose one of the following templates:
 
-- [a simple glossary](terminology.tmpl) in which all terms are sorted alphabetically within a single list
-- [a glossary with multiple sections](terminology_with_sections.tmpl) in which terms are split into thematic groups and sorted alphabetically within each one
+- [a simple glossary](glossary.tmpl) in which all terms are sorted alphabetically within a single list
+- [a glossary with multiple sections](glossary_with_sections.tmpl) in which terms are split into thematic groups and sorted alphabetically within each one
 
 These terms could be referenced from other topics in your API documentation using `:term:` directive.
