@@ -1,26 +1,19 @@
 # Guidelines <!-- omit in toc --> 
 
-- [Function, class, and group description](#function-class-and-group-description)
-  - [Function description without Doxygen](#function-description-without-doxygen)
+The templates intended for Doxygen-based projects are located in the [with_doxygen](with_doxygen) folder. The templates for the projects that do not use Doxygen are located in the [without_doxygen](without_doxygen) folder.
+
+- [Functions and Classes](#functions-and-classes)
+- [Enumeration Types](#enumeration-types)
+- [Doxygen Groups](#doxygen-groups)
 - [Chapters](#chapters)
 - [Glossary](#glossary)
 
+## Functions and Classes
 
-## Function, class, and group description
+Use the following templates to describe a particular function or a class:
 
-Use the following templates to describe a particular function, class, or a group:
-
-- `Function Template` for projects [with Doxygen](function_description_doxygen.tmpl) and [without Doxygen](function_description_no_doxygen.tmpl)
-- `Class Template` for projects [with Doxygen](class_description_doxygen.tmpl) and [without Doxygen](class_description_no_doxygen.tmpl)
-- `Group Template` for projects [with Doxygen](group_description_doxygen.tmpl) and [without Doxygen](group_description_no_doxygen.tmpl)
-
-### Function description without Doxygen
-
-For projects without Doxygen, you might want to use a combination of these:
-
-- [the template for a function description](function_description_no_doxygen.tmpl)
-- [the template for input and output parameters](description_parameters.tmpl)
-- [the template foe computation modes](description_computation_modes.tmpl)
+- `Function Template` for projects [with Doxygen](with_doxygen/function_description_doxygen.tmpl) and [without Doxygen](without_doxygen/function_description_no_doxygen.tmpl)
+- `Class Template` for projects [with Doxygen](with_doxygen/class_description_doxygen.tmpl) and [without Doxygen](without_doxygen/class_description_no_doxygen.tmpl)
 
 ---
 
@@ -30,6 +23,17 @@ An example of topic in the existing API Reference that could be documented using
 
 ---
 
+## Enumeration Types
+
+If you need to document enumeration types (enums), use the following:
+
+- the template to describe of a single enumeration type [with Doxygen](with_doxygen/enumerated_type_doxygen.tmpl) and [without Doxygen](without_doxygen/enumerated_type_no_doxygen.tmpl)
+- the template to describe a list of enumeration types [with Doxygen](with_doxygen/enumerations_doxygen.tmpl) and [without Doxygen](without_doxygen/enumerations_no_doxygen.tmpl)
+
+## Doxygen Groups
+
+Use the [Group Template](with_doxygen/group_description_doxygen.tmpl) for Doxygen groups (modules).
+
 ## Chapters
 
 These templates are used to create a chapter of your API Reference documentation. For each template there is an underlying assumption that you already have a folder with RST files that you want to place within the same chapter.
@@ -38,7 +42,7 @@ If you want to have a chapter for examples, namespaces, classes, or doxygen grou
 
 - [a chapter with examples](examples.tmpl) is created from the `examples` folder
 - [a chapter with namespaces](namespaces.tmpl) is created from the `namespaces` folder
-- [a chapter with doxygen groups](groups.tmpl) is created from the `groups` folder
+- [a chapter with Doxygen groups](groups.tmpl) is created from the `groups` folder
 
 ---
 
