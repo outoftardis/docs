@@ -5,7 +5,7 @@ The templates intended for Doxygen-based projects are located in the [with_doxyg
 - [Functions and Classes](#functions-and-classes)
 - [Enumeration Types](#enumeration-types)
 - [Doxygen Groups](#doxygen-groups)
-- [Main page](#main-page)
+- [Main Page](#main-page)
 - [Chapters](#chapters)
 - [Glossary](#glossary)
 
@@ -35,7 +35,7 @@ If you need to document enumeration types (enums), use the following:
 
 Use the [Group Template](with_doxygen/group_description_doxygen.tmpl) for Doxygen groups (modules).
 
-## Main page
+## Main Page
 
 Use the [template for the main page](index.tmpl) to create an overall structure of your API Reference documentation and provide users with clear navigation.
 
