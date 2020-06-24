@@ -5,6 +5,7 @@ The templates intended for Doxygen-based projects are located in the [with_doxyg
 - [Functions and Classes](#functions-and-classes)
 - [Enumeration Types](#enumeration-types)
 - [Doxygen Groups](#doxygen-groups)
+- [Main page](#main-page)
 - [Chapters](#chapters)
 - [Glossary](#glossary)
 
@@ -33,6 +34,19 @@ If you need to document enumeration types (enums), use the following:
 ## Doxygen Groups
 
 Use the [Group Template](with_doxygen/group_description_doxygen.tmpl) for Doxygen groups (modules).
+
+## Main page
+
+Use the [template for the main page](index.tmpl) to create an overall structure of your API Reference documentation and provide users with clear navigation.
+
+A note on this template:
+
+- Use `:ref:` directive to provide links to chapters:
+  
+  - In your chapter RST file, you need to have `.. _chapter_name_link:` line at the top of the file.
+  - Then you can use the following syntax to refer to that file from anywhere in your documentation:
+  
+        :ref:`chapter_name_link`
 
 ## Chapters
 
