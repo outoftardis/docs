@@ -21,6 +21,13 @@ public:
         kNinjaThrowingStars   //!< Stealthy
     };
 
+    enum AnotherTool
+    {
+        kHammer = 0,          //!< What? It does the job
+        kNutCrackers,         //!< Boring
+        kNinjaThrowingStars   //!< Stealthy
+    };
+
     //! Nutshell constructor
     Nutshell();
 

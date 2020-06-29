@@ -10,6 +10,9 @@ The [guidelines](templates/README.md) describe which templates to use and in whi
 
 Our goal is to create a similar look-and-feal across API documentation for different libraries and to make it easier for projects to start using Sphinx and reStructuredText markup for their API documentation.
 
+
+Browse [our GitHub Pages](https://outoftardis.github.io/docs/) to see the output of these templates.
+
 ## Other Resources
 
 - [Quick start with Sphinx](https://www.sphinx-doc.org/en/master/usage/quickstart.html)

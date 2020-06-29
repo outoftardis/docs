@@ -7,7 +7,7 @@
       <memberdef kind="enum" id="class_nutshell_1ae42034231cf912d095d57cbeed6cda79" prot="public" static="no" strong="no">
         <type></type>
         <name>Tool</name>
-        <enumvalue id="class_nutshell_1ae42034231cf912d095d57cbeed6cda79ad6ed1c9289f0734f74d197b967effb2c" prot="public">
+        <enumvalue id="class_nutshell_1a90a3a7c39a4322f0020162460867fa40ae02fc68abacaf131e0f10248dd93532f" prot="public">
           <name>kHammer</name>
           <initializer>= 0</initializer>
           <briefdescription>
@@ -16,7 +16,7 @@
           <detaileddescription>
           </detaileddescription>
         </enumvalue>
-        <enumvalue id="class_nutshell_1ae42034231cf912d095d57cbeed6cda79ad32e3ec374a927a0b6edf29d51e6fcf9" prot="public">
+        <enumvalue id="class_nutshell_1a90a3a7c39a4322f0020162460867fa40a02628356b40ad496228b6674742f1f4c" prot="public">
           <name>kNutCrackers</name>
           <briefdescription>
 <para>Boring. </para>
@@ -24,7 +24,7 @@
           <detaileddescription>
           </detaileddescription>
         </enumvalue>
-        <enumvalue id="class_nutshell_1ae42034231cf912d095d57cbeed6cda79a1c6cc79780165c195ff7cb7384aba51a" prot="public">
+        <enumvalue id="class_nutshell_1a90a3a7c39a4322f0020162460867fa40ac47757ce9418372000294d5a910962b7" prot="public">
           <name>kNinjaThrowingStars</name>
           <briefdescription>
 <para>Stealthy. </para>
@@ -42,6 +42,42 @@
         </inbodydescription>
         <location file="include/nutshell.h" line="18" column="1" bodyfile="include/nutshell.h" bodystart="17" bodyend="22"/>
       </memberdef>
+      <memberdef kind="enum" id="class_nutshell_1a90a3a7c39a4322f0020162460867fa40" prot="public" static="no" strong="no">
+        <type></type>
+        <name>AnotherTool</name>
+        <enumvalue id="class_nutshell_1a90a3a7c39a4322f0020162460867fa40ae02fc68abacaf131e0f10248dd93532f" prot="public">
+          <name>kHammer</name>
+          <initializer>= 0</initializer>
+          <briefdescription>
+<para>What? It does the job. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="class_nutshell_1a90a3a7c39a4322f0020162460867fa40a02628356b40ad496228b6674742f1f4c" prot="public">
+          <name>kNutCrackers</name>
+          <briefdescription>
+<para>Boring. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="class_nutshell_1a90a3a7c39a4322f0020162460867fa40ac47757ce9418372000294d5a910962b7" prot="public">
+          <name>kNinjaThrowingStars</name>
+          <briefdescription>
+<para>Stealthy. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="include/nutshell.h" line="25" column="1" bodyfile="include/nutshell.h" bodystart="24" bodyend="29"/>
+      </memberdef>
       </sectiondef>
       <sectiondef kind="private-attrib">
       <memberdef kind="variable" id="class_nutshell_1a144928f8a485dbe64a4db63c2ca5a200" prot="private" static="no" mutable="no">
@@ -56,7 +92,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="include/nutshell.h" line="44" column="10" bodyfile="include/nutshell.h" bodystart="44" bodyend="-1"/>
+        <location file="include/nutshell.h" line="51" column="10" bodyfile="include/nutshell.h" bodystart="51" bodyend="-1"/>
       </memberdef>
       </sectiondef>
       <sectiondef kind="public-func">
@@ -72,7 +108,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="include/nutshell.h" line="25" column="5"/>
+        <location file="include/nutshell.h" line="32" column="5"/>
       </memberdef>
       <memberdef kind="function" id="class_nutshell_1aa7e84b812e4489584093a76da864297e" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type></type>
@@ -86,7 +122,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="include/nutshell.h" line="28" column="5"/>
+        <location file="include/nutshell.h" line="35" column="5"/>
       </memberdef>
       <memberdef kind="function" id="class_nutshell_1a57fc2641156575ef8d655b6c90a1a17d" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>void</type>
@@ -114,7 +150,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="include/nutshell.h" line="34" column="10"/>
+        <location file="include/nutshell.h" line="41" column="10"/>
       </memberdef>
       <memberdef kind="function" id="class_nutshell_1a510c746ef3f7c1b54139124afa657b66" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>bool</type>
@@ -130,7 +166,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="include/nutshell.h" line="39" column="10"/>
+        <location file="include/nutshell.h" line="46" column="10"/>
       </memberdef>
       </sectiondef>
     <briefdescription>
@@ -138,13 +174,14 @@
     <detaileddescription>
 <para>With a little bit of a elaboration, should you feel it necessary. </para>
     </detaileddescription>
-    <location file="include/nutshell.h" line="12" column="1" bodyfile="include/nutshell.h" bodystart="11" bodyend="46"/>
+    <location file="include/nutshell.h" line="12" column="1" bodyfile="include/nutshell.h" bodystart="11" bodyend="53"/>
     <listofallmembers>
+      <member refid="class_nutshell_1a90a3a7c39a4322f0020162460867fa40" prot="public" virt="non-virtual"><scope>Nutshell</scope><name>AnotherTool</name></member>
       <member refid="class_nutshell_1a57fc2641156575ef8d655b6c90a1a17d" prot="public" virt="non-virtual"><scope>Nutshell</scope><name>crack</name></member>
       <member refid="class_nutshell_1a510c746ef3f7c1b54139124afa657b66" prot="public" virt="non-virtual"><scope>Nutshell</scope><name>isCracked</name></member>
-      <member refid="class_nutshell_1ae42034231cf912d095d57cbeed6cda79ad6ed1c9289f0734f74d197b967effb2c" prot="public" virt="non-virtual"><scope>Nutshell</scope><name>kHammer</name></member>
-      <member refid="class_nutshell_1ae42034231cf912d095d57cbeed6cda79a1c6cc79780165c195ff7cb7384aba51a" prot="public" virt="non-virtual"><scope>Nutshell</scope><name>kNinjaThrowingStars</name></member>
-      <member refid="class_nutshell_1ae42034231cf912d095d57cbeed6cda79ad32e3ec374a927a0b6edf29d51e6fcf9" prot="public" virt="non-virtual"><scope>Nutshell</scope><name>kNutCrackers</name></member>
+      <member refid="class_nutshell_1a90a3a7c39a4322f0020162460867fa40ae02fc68abacaf131e0f10248dd93532f" prot="public" virt="non-virtual"><scope>Nutshell</scope><name>kHammer</name></member>
+      <member refid="class_nutshell_1a90a3a7c39a4322f0020162460867fa40ac47757ce9418372000294d5a910962b7" prot="public" virt="non-virtual"><scope>Nutshell</scope><name>kNinjaThrowingStars</name></member>
+      <member refid="class_nutshell_1a90a3a7c39a4322f0020162460867fa40a02628356b40ad496228b6674742f1f4c" prot="public" virt="non-virtual"><scope>Nutshell</scope><name>kNutCrackers</name></member>
       <member refid="class_nutshell_1a144928f8a485dbe64a4db63c2ca5a200" prot="private" virt="non-virtual"><scope>Nutshell</scope><name>m_isCracked</name></member>
       <member refid="class_nutshell_1a68edae1c44c7a85b889b0cf88e79939f" prot="public" virt="non-virtual"><scope>Nutshell</scope><name>Nutshell</name></member>
       <member refid="class_nutshell_1ae42034231cf912d095d57cbeed6cda79" prot="public" virt="non-virtual"><scope>Nutshell</scope><name>Tool</name></member>

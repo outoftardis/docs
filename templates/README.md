@@ -2,6 +2,8 @@
 
 The templates intended for Doxygen-based projects are located in the [with_doxygen](with_doxygen) folder. The templates for the projects that do not use Doxygen are located in the [without_doxygen](without_doxygen) folder.
 
+You can also browse [our GitHub Pages](https://outoftardis.github.io/docs/) to see the output of these templates.
+
 - [Functions and Classes](#functions-and-classes)
 - [Enumeration Types](#enumeration-types)
 - [Doxygen Groups](#doxygen-groups)

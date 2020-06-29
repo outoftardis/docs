@@ -5,8 +5,8 @@ copyright = "2020"
 author = "Ekaterina Mekhnetsova"
 
 extensions = ['breathe']
-# templates_path = ['_templates']
-# html_static_path = ['_static']
+templates_path = ['_templates']
+html_static_path = ['_static']
 
 breathe_projects = {
     "example_API":"../xml/",
