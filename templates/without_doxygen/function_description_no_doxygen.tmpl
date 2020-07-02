@@ -21,15 +21,6 @@ API
 [The list below is provided for quick navigation.]
 [Remove the items for the sections that you do not need.]
 
-- `Header`_
-- `Syntax`_
-- `Template Parameters`_
-- `Input Parameters`_
-- `Output Parameters`_
-- `Return Values`_
-- `Exceptions`_
-- `Helper Functions`_
-
 Header
 ------
 

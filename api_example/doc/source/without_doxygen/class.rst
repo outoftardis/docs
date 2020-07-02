@@ -28,19 +28,6 @@ API
 [The list below is provided for quick navigation.]
 [Remove the items for the sections that you do not need.]
 
-- `Header`_
-- `Syntax`_
-- `Template Parameters`_
-- `Member Types`_
-- `Member Functions`_
-- `Member Objects`_
-- `Protected Member Types`_
-- `Protected Functions`_
-- `Protected Member Objects`_
-- `Non-member Functions`_
-- `Helper Types`_
-- `Helper Classes`_
-
 Header
 ------
 
