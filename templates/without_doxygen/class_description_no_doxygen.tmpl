@@ -25,8 +25,7 @@ Concepts
 API
 ***
 
-[The list below is provided for quick navigation.]
-[Remove the items for the sections that you do not need.]
+[Remove sections that you do not need.]
 
 Header
 ------
