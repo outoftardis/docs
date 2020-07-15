@@ -5,10 +5,9 @@ Function Template
 
 [You may provide a short summary of the function here.]
 
-- `Description`_
-- `API`_
-- `Examples`_
-- `See Also`_
+.. contents::
+    :local:
+    :depth: 1
 
 Description
 ***********
