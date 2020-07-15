@@ -5,9 +5,9 @@ Enums Template
 
 [Brief description of the enumeration types described below]
 
-- `API`_
-- `Examples`_
-- `See Also`_
+.. contents::
+    :local:
+    :depth: 1
 
 API
 ***

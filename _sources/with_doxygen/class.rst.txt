@@ -5,11 +5,9 @@ Class Template
 
 [You may provide a short summary of the class here.]
 
-- `Description`_
-- `Concepts`_
-- `API`_
-- `Examples`_
-- `See Also`_
+.. contents::
+    :local:
+    :depth: 1
 
 Description
 ***********

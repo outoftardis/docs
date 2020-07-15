@@ -3,8 +3,9 @@
 Complex Glossary Template
 =========================
 
-- `Section Title 1`_
-- `Section Title 2`_
+.. contents::
+    :local:
+    :depth: 1
 
 Create a glossary of terms used acroos API.
 Terms will be sorted alphabetically within each section.
