@@ -5,12 +5,12 @@ Enums Template
 
 [Brief description of the enumeration types described below]
 
+API
+***
+
 .. contents::
     :local:
     :depth: 1
-
-API
-***
 
 Enum 1
 ------

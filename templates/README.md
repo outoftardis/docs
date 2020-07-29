@@ -10,6 +10,10 @@ You can also browse [our GitHub Pages](https://outoftardis.github.io/docs/) to s
 - [Main Page](#main-page)
 - [Chapters](#chapters)
 - [Glossary](#glossary)
+- [Usage Guidelines](#usage-guidelines)
+  - [The `contents` directive](#the-contents-directive)
+  - [RST Headers](#rst-headers)
+  - [Descriptions](#descriptions)
 
 ## Functions and Classes
 
@@ -17,6 +21,7 @@ Use the following templates to describe a particular function or a class:
 
 - `Function Template` for projects [with Doxygen](with_doxygen/function_description_doxygen.tmpl) and [without Doxygen](without_doxygen/function_description_no_doxygen.tmpl)
 - `Class Template` for projects [with Doxygen](with_doxygen/class_description_doxygen.tmpl) and [without Doxygen](without_doxygen/class_description_no_doxygen.tmpl)
+- the template to describe a group of functions [with Doxygen](with_doxygen/functions_doxygen.tmpl)
 
 ---
 
@@ -89,3 +94,64 @@ To create a glossary of terms used across your API Reference documentation, choo
 - [a glossary with multiple sections](glossary_with_sections.tmpl) in which terms are split into thematic groups and sorted alphabetically within each one
 
 These terms could be referenced from other topics in your API documentation using `:term:` directive.
+
+---
+
+## Usage Guidelines
+
+
+### The `contents` directive
+
+The `contents` directive produces a local table of contents. Omit it if you only have one subsection.
+
+```
+.. contents::
+    :local:
+    :depth: 1
+```
+
+### RST Headers
+
+These templates use the following order of RST headers:
+
+```
+Level 1
+=======
+
+Level 2
+*******
+
+Level 3
+-------
+```
+
+You should use RST Headers consistenly. If in your documentation you follow another order or another style, adjust these templates accordingly.
+
+### Descriptions
+
+If your Doxygen comments already contain extensive descriptions for functions, classes, and other entities, you do not need to copy these descriptions in RST as well.
+
+For example, this is a part of the function template:
+
+```
+Description
+***********
+
+[The description of the function.]
+
+API
+***
+
+.. doxygenfunction:: the name of the function
+   :project: the name of the project
+```
+
+If `doxygenfunction` produces the description of the function that you find sufficient, omit the "Description" section.
+
+```
+API
+***
+
+.. doxygenfunction:: the name of the function
+   :project: the name of the project
+```
