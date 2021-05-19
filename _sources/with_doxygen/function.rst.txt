@@ -1,7 +1,7 @@
 .. _function_name_link_doxy:
 
 Function Template
-=================
+#################
 
 [You may provide a short summary of the function here.]
 

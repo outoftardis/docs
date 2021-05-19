@@ -1,7 +1,7 @@
 .. _enums_name_link_doxy:
 
 Enums Template
-==============
+##############
 
 [Brief description of the enumeration types described below]
 
@@ -13,7 +13,7 @@ API
     :depth: 1
 
 Enum 1
-------
+======
 
 .. note:: 
    This example is taken from `Breathe's documentation <https://breathe.readthedocs.io/en/latest/index.html>`_
@@ -23,7 +23,7 @@ Enum 1
    :project: example_API
 
 Enum 2
-------
+======
 
 .. note:: 
    This example is taken from `Breathe's documentation <https://breathe.readthedocs.io/en/latest/index.html>`_

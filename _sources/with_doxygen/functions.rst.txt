@@ -1,7 +1,7 @@
 .. _functions_group_link:
 
 Group of Functions Template
-===========================
+###########################
 
 [Brief description of the functions described below]
 
@@ -13,7 +13,7 @@ API
     :depth: 1
 
 Function 1
-----------
+==========
 
 [You may provide a short description of the function here.]
 
@@ -25,7 +25,7 @@ Function 1
    :project: example_API
 
 Function 2
-----------
+==========
 
 [You may provide a short description of the function here.]
 
@@ -37,7 +37,7 @@ Function 2
    :project: example_API
 
 Function 3
-----------
+==========
 
 [You may provide a short description of the function here.]
 

@@ -1,7 +1,7 @@
 .. _api_glossary_complex:
 
 Complex Glossary Template
-=========================
+#########################
 
 .. contents::
     :local:
