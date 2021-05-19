@@ -1,7 +1,7 @@
 .. _enum_name_link:
 
 Enum Template
-=============
+#############
 
 [Brief description of the enumeration type]
 

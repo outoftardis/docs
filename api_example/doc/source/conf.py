@@ -1,7 +1,7 @@
 # Configuration file
 
 project = "API Reference"
-copyright = "2020"
+copyright = "2020-2021"
 author = "Ekaterina Mekhnetsova"
 
 extensions = ['breathe']

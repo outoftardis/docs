@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8' standalone='no'?>
-<doxygenindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="index.xsd" version="1.8.16">
+<doxygenindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="index.xsd" version="1.8.13">
   <compound refid="class_nutshell" kind="class"><name>Nutshell</name>
     <member refid="class_nutshell_1ae42034231cf912d095d57cbeed6cda79" kind="enum"><name>Tool</name></member>
     <member refid="class_nutshell_1a90a3a7c39a4322f0020162460867fa40ae02fc68abacaf131e0f10248dd93532f" kind="enumvalue"><name>kHammer</name></member>

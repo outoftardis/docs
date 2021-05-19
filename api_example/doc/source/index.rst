@@ -1,7 +1,7 @@
 .. _index:
 
 Templates for API Reference Documentaion
-========================================
+########################################
 
 These pages are built using the `set of proposed templates <https://github.com/outoftardis/docs/tree/master/templates>`_.
 Use this document to see how the output is going to look like when you build your documentation.

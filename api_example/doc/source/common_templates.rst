@@ -1,7 +1,7 @@
 .. _common_templates:
 
 Common Templates
-================
+################
 
 This page is created using the `Chapter Template <https://github.com/outoftardis/docs/blob/master/templates/chapter_complex.tmpl>`_.
 
