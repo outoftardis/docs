@@ -1,7 +1,7 @@
 .. _group_name_link:
 
 Group Template
-==============
+##############
 
 [You may provide a short summary of the group here.]
 

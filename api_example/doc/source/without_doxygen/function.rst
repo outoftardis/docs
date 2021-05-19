@@ -1,7 +1,7 @@
 .. _function_name_link:
 
 Function Template
-=================
+#################
 
 [You may provide a short summary of the function here.]
 
@@ -20,42 +20,42 @@ API
 [Remove sections that you do not need.]
 
 Header
-------
+======
 
 [Optional]
 
 Syntax
-------
+======
 
 [Optional]
 
 Template Parameters
--------------------
+===================
 
 [Optional. Use if applicable]
 
 Input Parameters
-----------------
+================
 
 [Optional. Use if applicable]
 
 Output Parameters
------------------
+=================
 
 [Optional. Use if applicable]
 
 Return Values
--------------
+=============
 
 [Optional. Use if applicable]
 
 Exceptions
-----------
+==========
 
 [Optional. Use if applicable]
 
 Helper Functions
-----------------
+================
 
 [Optional. Use if applicable]
 

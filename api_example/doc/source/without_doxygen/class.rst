@@ -1,7 +1,7 @@
 .. _class_name_link:
 
 Class Template 
-==============
+##############
 
 [You may provide a short summary of the class here.]
 
@@ -26,62 +26,62 @@ API
 [Remove sections that you do not need.]
 
 Header
-------
+======
 
 [Optional]
 
 Syntax
-------
+======
 
 [Optional]
 
 Template Parameters
--------------------
+===================
 
 [Optional. Use if applicable]
 
 Member Types
-------------
+============
 
 [Optional. Use if applicable]
 
 Member Functions
-----------------
+================
 
 [Optional. Use if applicable]
 
 Member Objects
---------------
+==============
 
 [Optional. Use if applicable]
 
 Protected Member Types
-----------------------
+======================
 
 [Optional. Use if applicable]
 
 Protected Functions
--------------------
+===================
 
 [Optional. Use if applicable]
 
 Protected Member Objects
-------------------------
+========================
 
 [Optional. Use if applicable]
 
 Non-member Functions
---------------------
+====================
 
 [Optional. Use if applicable]
 
 Helper Types
-------------
+============
 
 [Optional. Use if applicable]
 
 Helper Classes
---------------
+==============
 
 [Optional. Use if applicable]
 

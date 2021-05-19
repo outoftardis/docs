@@ -1,7 +1,7 @@
 .. _class_name_link_doxy:
 
 Class Template
-==============
+##############
 
 [You may provide a short summary of the class here.]
 

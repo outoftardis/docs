@@ -1,14 +1,12 @@
 <?xml version='1.0' encoding='UTF-8' standalone='no'?>
-<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.16">
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.13">
   <compounddef id="nutshell_8h" kind="file" language="C++">
     <compoundname>nutshell.h</compoundname>
     <innerclass refid="class_nutshell" prot="public">Nutshell</innerclass>
     <briefdescription>
-<para>This example is taken from <ulink url="https://breathe.readthedocs.io/en/latest/index.html">https://breathe.readthedocs.io/en/latest/index.html</ulink>. </para>
-    </briefdescription>
+<para>This example is taken from <ulink url="https://breathe.readthedocs.io/en/latest/index.html">https://breathe.readthedocs.io/en/latest/index.html</ulink>. </para>    </briefdescription>
     <detaileddescription>
-<para>An overly extended example of how to use breathe </para>
-    </detaileddescription>
+<para>An overly extended example of how to use breathe </para>    </detaileddescription>
     <programlisting>
 <codeline lineno="1"></codeline>
 <codeline lineno="11" refid="class_nutshell" refkind="compound"><highlight class="keyword">class<sp/></highlight><highlight class="normal"><ref refid="class_nutshell" kindref="compound">Nutshell</ref></highlight></codeline>
