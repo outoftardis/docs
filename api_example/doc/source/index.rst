@@ -3,13 +3,13 @@
 Templates for API Reference Documentaion
 ########################################
 
-These pages are built using the `set of proposed templates <https://github.com/outoftardis/docs/tree/master/templates>`_.
+These pages are built using the `set of proposed templates <https://github.com/outoftardis/docs/tree/main/templates>`_.
 Use this document to see how the output is going to look like when you build your documentation.
 
 For each page in this document, you can view its source by clicking the link in the top right corner of the page.
-All sources are also located in our `GitHub repository <https://github.com/outoftardis/docs/tree/master/api_example>`_.
+All sources are also located in our `GitHub repository <https://github.com/outoftardis/docs/tree/main/api_example>`_.
 
-Moreoever, you can consult `these guidelines <https://github.com/outoftardis/docs/blob/master/templates/README.md>`_ on the usage of these templates.
+Moreoever, you can consult `these guidelines <https://github.com/outoftardis/docs/blob/main/templates/README.md>`_ on the usage of these templates.
 
 :ref:`common_templates`
    Applicable for all projects
@@ -18,7 +18,7 @@ Moreoever, you can consult `these guidelines <https://github.com/outoftardis/doc
 :ref:`tmpl_with_doxygen`
    Applicable for projects that use Doxygen
 
-This page is created using the `template for the main page <https://github.com/outoftardis/docs/blob/master/templates/index.tmpl>`_.
+This page is created using the `template for the main page <https://github.com/outoftardis/docs/blob/main/templates/index.tmpl>`_.
 
 .. toctree::
     :maxdepth: 1

@@ -3,7 +3,7 @@
 Templates with Doxygen
 ######################
 
-This page is created using the `Chapter Template <https://github.com/outoftardis/docs/blob/master/templates/chapter.tmpl>`_.
+This page is created using the `Chapter Template <https://github.com/outoftardis/docs/blob/main/templates/chapter.tmpl>`_.
 
 .. toctree::
     :maxdepth: 1
